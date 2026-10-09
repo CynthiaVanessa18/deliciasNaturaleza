@@ -1,0 +1,391 @@
+{
+  "mode": "Interfaz con respuestas API simuladas; sin cambios en SQL Server",
+  "checks": [
+    {
+      "label": "dashboard-1440",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": "267.25px 267.25px 267.25px 267.25px"
+    },
+    {
+      "label": "menu-1440",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "tables-1440",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "orders-1440",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "kitchen-1440",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "users-1440",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "audit-1440",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "dashboard-1280",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": "227.25px 227.25px 227.25px 227.25px"
+    },
+    {
+      "label": "menu-1280",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "tables-1280",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "orders-1280",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "kitchen-1280",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "users-1280",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "audit-1280",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "dashboard-1024",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": "438.5px 438.5px"
+    },
+    {
+      "label": "menu-1024",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "tables-1024",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "orders-1024",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "kitchen-1024",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "users-1024",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "audit-1024",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "dashboard-768",
+      "width": 768,
+      "scrollWidth": 768,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": "310.5px 310.5px"
+    },
+    {
+      "label": "menu-768",
+      "width": 768,
+      "scrollWidth": 768,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "tables-768",
+      "width": 768,
+      "scrollWidth": 768,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "orders-768",
+      "width": 768,
+      "scrollWidth": 768,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "kitchen-768",
+      "width": 768,
+      "scrollWidth": 768,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "users-768",
+      "width": 768,
+      "scrollWidth": 768,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "audit-768",
+      "width": 768,
+      "scrollWidth": 768,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "dashboard-390",
+      "width": 390,
+      "scrollWidth": 390,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": "354px"
+    },
+    {
+      "label": "menu-390",
+      "width": 390,
+      "scrollWidth": 390,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "tables-390",
+      "width": 390,
+      "scrollWidth": 390,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "orders-390",
+      "width": 390,
+      "scrollWidth": 390,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "kitchen-390",
+      "width": 390,
+      "scrollWidth": 390,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "users-390",
+      "width": 390,
+      "scrollWidth": 390,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "audit-390",
+      "width": 390,
+      "scrollWidth": 390,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "dashboard-320",
+      "width": 320,
+      "scrollWidth": 320,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": "284px"
+    },
+    {
+      "label": "menu-320",
+      "width": 320,
+      "scrollWidth": 320,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "tables-320",
+      "width": 320,
+      "scrollWidth": 320,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "orders-320",
+      "width": 320,
+      "scrollWidth": 320,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "kitchen-320",
+      "width": 320,
+      "scrollWidth": 320,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "users-320",
+      "width": 320,
+      "scrollWidth": 320,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "audit-320",
+      "width": 320,
+      "scrollWidth": 320,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "sidebar-compact",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": "308.75px 308.75px 308.75px 308.75px"
+    },
+    {
+      "label": "modal-producto-1440",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "modal-usuario-1440",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "modal-producto-390",
+      "width": 390,
+      "scrollWidth": 390,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "modal-usuario-390",
+      "width": 390,
+      "scrollWidth": 390,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "modal-producto-320",
+      "width": 320,
+      "scrollWidth": 320,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "modal-usuario-320",
+      "width": 320,
+      "scrollWidth": 320,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "rol-mesero",
+      "width": 390,
+      "scrollWidth": 390,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "rol-cocinero",
+      "width": 390,
+      "scrollWidth": 390,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "rol-cajero",
+      "width": 390,
+      "scrollWidth": 390,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": null
+    },
+    {
+      "label": "rol-gerente",
+      "width": 390,
+      "scrollWidth": 390,
+      "sidebar": "rgb(31, 53, 40)",
+      "kpis": "354px"
+    },
+    {
+      "label": "rol-cliente",
+      "width": 390,
+      "scrollWidth": 390,
+      "sidebar": "rgba(250, 248, 243, 0.95)",
+      "kpis": null
+    },
+    {
+      "label": "acceso",
+      "width": 390,
+      "scrollWidth": 390,
+      "sidebar": "rgb(242, 237, 227)",
+      "kpis": null
+    }
+  ],
+  "errors": []
+}

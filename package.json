@@ -1,0 +1,26 @@
+{
+  "name": "restaurante",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sistema de restaurante con Node.js, SQL Server y Bootstrap",
+  "type": "module",
+  "engines": {
+    "node": ">=22.9.0"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env src/server.js",
+    "dev": "node --env-file-if-exists=.env --watch src/server.js",
+    "db:setup": "node --env-file-if-exists=.env scripts/setup.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/manrope": "^5.3.0",
+    "bootstrap": "^5.3.3",
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.0",
+    "express-session": "^1.18.1",
+    "helmet": "^8.1.0",
+    "mssql": "^11.0.1"
+  }
+}

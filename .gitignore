@@ -1,0 +1,11 @@
+node_modules/
+.env
+*.log
+coverage/
+public/uploads/products/
+
+tmp/
+.env.*
+!.env.example
+*.bak
+

@@ -1,0 +1,266 @@
+{
+  "mode": "Revisión de interfaz con respuestas simuladas; sin conexión ni escritura a SQL Server",
+  "findings": [
+    {
+      "label": "login-1440",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "cliente-1440",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "flex"
+    },
+    {
+      "label": "login-1024",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "cliente-1024",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "flex"
+    },
+    {
+      "label": "login-768",
+      "width": 768,
+      "scrollWidth": 768,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "cliente-768",
+      "width": 768,
+      "scrollWidth": 768,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "flex"
+    },
+    {
+      "label": "login-390",
+      "width": 390,
+      "scrollWidth": 390,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "cliente-390",
+      "width": 390,
+      "scrollWidth": 390,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "flex"
+    },
+    {
+      "label": "login-320",
+      "width": 320,
+      "scrollWidth": 320,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "cliente-320",
+      "width": 320,
+      "scrollWidth": 320,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "flex"
+    },
+    {
+      "label": "filtro-bebidas",
+      "width": 390,
+      "scrollWidth": 390,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "flex"
+    },
+    {
+      "label": "admin-1440",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "admin-menu-1440",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "editor-1440",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "pedido-1440",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "cocina-1440",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "admin-390",
+      "width": 390,
+      "scrollWidth": 390,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "admin-menu-390",
+      "width": 390,
+      "scrollWidth": 390,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "editor-390",
+      "width": 390,
+      "scrollWidth": 390,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "pedido-390",
+      "width": 390,
+      "scrollWidth": 390,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "cocina-390",
+      "width": 390,
+      "scrollWidth": 390,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "admin-320",
+      "width": 320,
+      "scrollWidth": 320,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "admin-menu-320",
+      "width": 320,
+      "scrollWidth": 320,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "editor-320",
+      "width": 320,
+      "scrollWidth": 320,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "pedido-320",
+      "width": 320,
+      "scrollWidth": 320,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    },
+    {
+      "label": "cocina-320",
+      "width": 320,
+      "scrollWidth": 320,
+      "fonts": [
+        true,
+        true
+      ],
+      "hero": "none"
+    }
+  ],
+  "errors": []
+}

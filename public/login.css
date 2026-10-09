@@ -1,0 +1,30 @@
+/* Interior de la referencia: sin marco ni franja exterior. */
+body:has(#login-view:not([hidden])){background:#b6bfa4;min-height:100svh}
+#login-view{grid-template-columns:56% 44%;min-height:100svh;margin:0;border:0;border-radius:0;overflow:hidden;background:#b6bfa4;box-shadow:none}
+#login-view .login-story{min-height:100svh;padding:0;background:none;position:relative;overflow:hidden}
+#login-view .login-story::before{display:none}
+.login-reference-photo{position:absolute;width:238.12%;max-width:none;height:108.83%;left:-4.7%;top:-4.9%;object-fit:fill}
+#login-view .nature-brand,#login-view .story-content{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);padding:0;margin:0}
+#login-view .login-form-area{position:relative;isolation:isolate;padding:90px 6.3% 70px;display:grid;place-items:center;background:radial-gradient(ellipse at 0 50%,#dde2cc99,transparent 70%),linear-gradient(135deg,#b9c1a5,#aeb99c);overflow:hidden}
+#login-view .login-form-wrap{width:100%;max-width:540px;padding:30px 35px 32px;border-radius:17px;background:#f6f3e7;box-shadow:0 20px 50px #35452b18;position:relative;z-index:1}
+.login-emblem{text-align:center;color:#294b30;font-family:'Cormorant Garamond',Georgia,serif;font-size:27px;line-height:.95;font-weight:600}
+.login-emblem svg{display:block;width:48px;height:55px;margin:0 auto 7px}
+#login-view .login-form-wrap h2{text-align:center;font-size:clamp(29px,2.7vw,43px);line-height:1.08;letter-spacing:-1px;margin:28px -15px 8px;color:#172219}
+.login-intro{text-align:center;font-size:14px;line-height:1.5;color:#60625e;margin:0 -5px 29px}
+#login-view .form-label{font-size:13px;font-weight:600;margin-bottom:5px;color:#161b17}
+.login-input{position:relative;margin-bottom:14px}.login-input>svg{position:absolute;width:19px;height:19px;left:14px;top:14px;color:#60636a;pointer-events:none}
+#login-view .login-input input{padding:10px 44px;height:47px;min-height:47px;border:1px solid #c9c9c2;border-radius:7px;background:#faf9f5;font-size:13px}
+.login-input input:focus{border-color:#52704c;box-shadow:0 0 0 3px #52704c20}
+.password-toggle{position:absolute;right:4px;top:3px;width:41px;height:41px;border:0;background:transparent;color:#62675e;border-radius:5px}.password-toggle svg{width:21px;height:21px}.password-toggle:focus-visible{outline:2px solid #52704c;outline-offset:1px}
+.login-options{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:16px 0 22px;font-size:12px}.login-options label{display:flex;align-items:center;gap:9px;white-space:nowrap}.login-options input{width:19px;height:19px;accent-color:#2d553d}
+.login-text-link{border:0;background:none;padding:0;color:#244b35;text-decoration:underline;text-underline-offset:2px;cursor:pointer;font-size:inherit}
+#login-view .login-submit{display:block;min-height:52px;border-radius:12px;background:#385632;border-color:#385632;font-family:'Cormorant Garamond',Georgia,serif;font-size:24px;font-weight:400;letter-spacing:0;margin-top:0;padding:8px}#login-view .login-submit:hover{background:#294627}
+#login-view .login-foot{text-align:center;margin:20px 0 0;padding-top:18px;border-top:1px solid #d3d2c7;font-size:12px;color:#60625e}.login-foot button{font-weight:600}#login-error:empty{display:none}
+.botanical{position:absolute;font-family:Georgia,serif;font-size:290px;line-height:1;color:#486645;opacity:.3;z-index:0;pointer-events:none}.botanical-top{top:-15px;right:-45px;transform:rotate(130deg)}.botanical-bottom{bottom:-35px;left:-55px;transform:rotate(-35deg)}
+#login-help{max-width:450px;border:1px solid #c9c9b8;border-radius:17px;padding:30px;background:#f6f3e7}#login-help::backdrop{background:#1f352866}#login-help h2{font-size:31px}
+@media(max-width:1000px) and (min-width:651px){#login-view{grid-template-columns:50% 50%}#login-view .login-form-area{padding:40px 22px}#login-view .login-form-wrap{padding:28px 23px}.login-options{font-size:11px}#login-view .login-form-wrap h2{font-size:32px}}
+@media(max-width:650px){#login-view{display:flex;flex-direction:column;min-height:100svh}#login-view .login-story{min-height:220px;height:220px;flex-shrink:0}.login-reference-photo{width:238.12%;height:auto;top:-15%;left:-4.7%}#login-view .login-form-area{padding:0;overflow:hidden;flex:1;display:flex;align-items:stretch;justify-content:center;background:#f6f3e7}#login-view .login-form-wrap{max-width:480px;margin-top:0;padding:24px 24px 32px;border-radius:20px 20px 0 0;box-shadow:none}#login-view .login-form-wrap h2{font-size:32px;margin:20px -10px 8px}.login-intro{font-size:13px;margin-bottom:24px}.login-emblem{font-size:25px}.login-emblem svg{height:43px}.login-options{font-size:11px}.botanical{font-size:170px}.botanical-top{top:-20px;right:-35px}.botanical-bottom{display:none}}
+@media(prefers-reduced-motion:reduce){#login-view *,#login-view *::before{transition:none!important}}
+.login-navigation{position:absolute;top:25px;right:7%;left:-2%;display:flex;align-items:center;justify-content:flex-end;gap:clamp(10px,1.7vw,28px);z-index:2;white-space:nowrap}.login-navigation button{border:0;background:none;color:#fffdf2;font-family:'Cormorant Garamond',Georgia,serif;font-size:17px;padding:5px 0;cursor:pointer}.login-navigation .login-reserve{background:#ae4e2f;border-radius:30px;padding:13px 27px}.login-navigation button:focus-visible{outline:2px solid #244b35;outline-offset:4px}
+@media(max-width:1000px){.login-navigation{top:15px;right:20px;left:20px;gap:12px}.login-navigation button{font-size:14px}.login-navigation .login-reserve{padding:10px 16px}#login-view .login-form-area{padding-top:85px}}
+@media(max-width:650px){.login-navigation{display:none}#login-view .login-form-area{padding-top:0}}
